@@ -17,3 +17,15 @@ reset - move the current head
 tag - mark git objects
 
 mv - move a file location within a repository
+
+Git Hub:
+
+Accurate representation of history
+
+Whatever your new branch is is a new feature
+
+Anything on masters branch is deployable for production
+
+Fork - exact copy of a repository
+
+Merge and Deploy once ready to go
