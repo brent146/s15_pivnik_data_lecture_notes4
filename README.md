@@ -29,3 +29,5 @@ Anything on masters branch is deployable for production
 Fork - exact copy of a repository
 
 Merge and Deploy once ready to go
+
+General work-flow: 1) Branch  2) Submit Pull request  3) Merge 
